@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Alt text](https://github.com/zerocoolness/zerocoolness/blob/main/themagician.jpeg)
 
 
 - 🔭 I’m currently working on a cyberpunk/magic website & book series
