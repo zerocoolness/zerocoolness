@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-**zerocoolness/zerocoolness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a retro-themed cyberpunk/magic website & book
-- 🌱 I’m currently learning everything I can
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about cyberpunk fiction and reality
-- 📫 How to reach me: zero.coolness@proton.me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a cyberpunk/magic website & book series
+- 📫 How to reach me: [Email Me](mailto:zero.coolness@proton.me)
+- 💬 Ask me about [Movies](https://letterboxd.com/zerocoolness/)
+
+## 📊 GitHub Stats
+![ZeroCoolness's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerocoolness&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=zerocoolness&theme=onedark)
+
+
