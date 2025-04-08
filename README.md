@@ -21,7 +21,7 @@ N1ghtw1re is a **cyberpunk-infused** exploration of **privacy, anonymity, and di
 
 ## 🕵️‍♀️ How to Engage
 
-**N1ghtw1re is not for everyone.** It’s intentionally difficult to find, and only those who are truly looking will discover its depths. 
+**N1ghtw1re is not for everyone.** It’s intentionally difficult to find, and only those who are truly looking will discover its depths. But you can start your search here.
 
 - 🔍 Explore the [[N1ghtw1re site](https://n1ghtw1re.neocities.org/)]
 - 💬 Contribute to discussions on **digital privacy** and **sovereignty**
