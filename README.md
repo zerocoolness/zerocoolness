@@ -2,8 +2,7 @@
 
 ## Welcome to the Underground 🕵️‍♂️
 
-**N1ghtw1re** is more than a project—it's a digital resistance, a hypersigil, and a manifesto for reclaiming autonomy in the digital age. It is a multi-layered initiative spanning a **book series**, an **ARG**, a **retro-inspired website**, an **exclusive BBS**, and a growing digital underground.
-
+**N1ghtw1re** is more than a project—it's a digital resistance, a hypersigil, and a manifesto for reclaiming autonomy in the digital age.
 ---
 
 ## ⚡ What is N1ghtw1re? 
